@@ -1,0 +1,104 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+.social-icon1{
+	padding: 19px;
+	width: 30px;
+	font-size: 40px;
+	text-decoration: none;
+	margin: 5px 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.social-icon2{
+	padding: 19px;
+	width: 30px;
+	font-size: 40px;
+	text-decoration: none;
+	margin: 5px 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.social-icon3{
+	padding: 19px;
+	width: 30px;
+	font-size: 40px;
+	text-decoration: none;
+	margin: 5px 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.social-icon4{
+	padding: 19px;
+	width: 30px;
+	font-size: 40px;
+	text-decoration: none;
+	margin: 5px 10px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.text{
+	margin-left: 50px;
+}
+.search-box{
+	height: 50px;
+	padding: 10px;
+	width: 50%;
+}
+
+.main-container{
+	padding: 20px 40px;
+	display: flex;
+	background: #cecece;
+	flex-wrap: wrap;
+}
+
+.main-container > div{
+	padding: 20px;
+}
+
+.form{
+	padding: 10px 20px;
+}
+
+.forms{
+	flex: 1;
+	line-height: 45px;
+}
+
+.btn{
+	border-radius: 20px;
+}
+
+.maps{
+	flex: 1;
+	flex-wrap: wrap;
+	line-height: 100px;
+	padding: 10px 20px;
+}
+
+.card-body{
+	padding: 3px 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
